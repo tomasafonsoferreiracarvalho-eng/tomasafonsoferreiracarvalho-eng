@@ -1,9 +1,9 @@
 # Olá, sou o Tomás 👋
 
 🎓 1º ano de **Licenciatura em Engenharia Informática** no IPT (Instituto Politécnico de Tomar)
-🚀 A construir a **KamiODDS** — uma plataforma SaaS de arbitragem desportiva, em conjunto com o André
+🚀 A construir a **KamiODDS** uma plataforma SaaS de arbitragem desportivan sou o CEO
 🔭 Atualmente a trabalhar em: autenticação, integração Stripe, deploy em produção
-🌱 Sempre a aprender — de embedded systems a arquitetura de SaaS
+🌱 Sempre a aprender de embedded systems a arquitetura de SaaS
 
 ---
 
