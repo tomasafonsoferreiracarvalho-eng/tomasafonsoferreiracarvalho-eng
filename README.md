@@ -61,6 +61,8 @@
 🎮 **[Biblioteca de Jogos](https://github.com/tomasafonsoferreiracarvalho-eng/Final_Project_IPW)** — Aplicação web (HTML/CSS/JS/PHP)
 > Formulário de contacto ligado a base de dados MySQL
 
+⌨️ **[Estrutura de Dados e Algoritmos](https://github.com/tomasafonsoferreiracarvalho-eng/EDA)** — Trabalhos e fichas escolares
+> Trabalhos em Java derivado a POO com baterias de testes
 ---
 
 ### 📊 Estatísticas
