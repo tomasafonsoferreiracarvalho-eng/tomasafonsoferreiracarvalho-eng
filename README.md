@@ -1,9 +1,8 @@
 <h1 align="center">Olá, sou o Tomás 👋</h1>
 
 <p align="center">
-🎓 1º ano de <b>Licenciatura em Engenharia Informática</b> no IPT (Instituto Politécnico de Tomar)<br>
-🚀 Fundador da <b>KamiODDS</b> plataforma SaaS de arbitragem desportiva<br>
-🔭 A trabalhar em: autenticação, integração Stripe e deploy em produção<br>
+🎓 2º ano de <b>Licenciatura em Engenharia Informática</b> na UnIPT (Universidade Politécnica de Tomar)<br>
+🔭 A trabalhar em: (CT)^2 Conceitos Técnicas, Capacidade Troubleshooting<br>
 🌱 Sempre a aprender de embedded systems a arquitetura de SaaS<br>
 🛡️ Foco em Cibersegurança · Pentesting · SOC
 </p>
@@ -27,13 +26,10 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 
 **Bases de Dados**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 **DevOps & Infra**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
